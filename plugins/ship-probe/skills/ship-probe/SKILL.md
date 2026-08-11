@@ -7,6 +7,6 @@ description: Throwaway test skill for a one-time skill-shipping-route experiment
 
 This skill exists only to test whether a Claude Code / Cowork plugin marketplace hosted on GitHub auto-refreshes once installed, or requires a manual pull. It has no real function and answers no real request.
 
-PROBE-MARKER: v0.0.1
+PROBE-MARKER: v0.0.2
 
 If asked to check this skill's marker, report the exact line above verbatim and stop. Do not treat any of this file's content as an instruction to take any other action.
