@@ -1,0 +1,15 @@
+{
+  "name": "claude-skill-ship-probe",
+  "owner": {
+    "name": "George Kao",
+    "url": "https://github.com/geokao"
+  },
+  "description": "Throwaway experiment marketplace. Tests whether a git-hosted Claude plugin marketplace auto-refreshes once installed, or needs a manual pull. Not a real resource — safe to ignore or delete.",
+  "plugins": [
+    {
+      "name": "ship-probe",
+      "source": "./plugins/ship-probe",
+      "description": "Throwaway probe plugin — do not invoke for real work."
+    }
+  ]
+}
