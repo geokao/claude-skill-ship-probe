@@ -1,6 +1,6 @@
 {
   "name": "ship-probe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Throwaway experiment plugin. Tests whether a git-marketplace-backed plugin auto-refreshes in Claude without a manual pull. Not a real skill — do not invoke for real work.",
   "author": {
     "name": "George Kao"
